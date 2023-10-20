@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Acrosave-goit-react-hw-01-components/static/css/main.32d29947.css",
+    "main.css": "/Acrosave-goit-react-hw-01-components/static/css/main.30a987c6.css",
     "main.js": "/Acrosave-goit-react-hw-01-components/static/js/main.1ac571e7.js",
     "index.html": "/Acrosave-goit-react-hw-01-components/index.html",
-    "main.32d29947.css.map": "/Acrosave-goit-react-hw-01-components/static/css/main.32d29947.css.map",
+    "main.30a987c6.css.map": "/Acrosave-goit-react-hw-01-components/static/css/main.30a987c6.css.map",
     "main.1ac571e7.js.map": "/Acrosave-goit-react-hw-01-components/static/js/main.1ac571e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.32d29947.css",
+    "static/css/main.30a987c6.css",
     "static/js/main.1ac571e7.js"
   ]
 }
